@@ -1,0 +1,3 @@
+default:
+	fontforge MCVSansMono.sfd&
+
